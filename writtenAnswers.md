@@ -23,3 +23,19 @@
   1. There will be 2 rings on tower A and 3 rings on tower b.
   2. When there are 3 discs, it taskes 7 moves to solve the puzzle. When there are 4 discs, it takes 15 moves to solve the puzzle. When there are 5 discs, it takes 31 moves to solve the puzzle. 
   3. It has an exponential run time.
+## 13. Recursive Big O
+   - **Counting Sheep**, linear time since it is dependent on the number of sheep you wish to count
+   - **Power Calculator**, linear time since it is dependent on the size of the exponent
+   - **Reverse String**, linear time since it is dependent on the length of the string
+   - **nth Triangular Number**, linear time since it is dependent on the triangle you want to count up to
+   - **String Splitter**, linear time since it is dependent on the length of the string
+   - **Fibonacci**, linear time since it is dependent on the fibonacci number you want the sequence to go to
+   - **Factorial**, linear time since it is dependent on the value you want the factorial of.
+## 14. Iterative Big O
+- **Counting Sheep**, linear time since it is dependent on the number of sheep you wish to count
+- **Power Calculator**, linear time since it is dependent on the size of the exponent
+- **Reverse String**, linear time since it is dependent on the length of the string
+- **nth Triangular Number**, linear time since it is dependent on the triangle you want to count up to
+- **String Splitter**, linear time since it is dependent on the length of the string
+- **Fibonacci**, linear time since it is dependent on the fibonacci number you want the sequence to go to
+- **Factorial**, linear time since it is dependent on the value you want the factorial of.
