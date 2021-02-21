@@ -19,4 +19,7 @@
   Constant time since it will always require the same amount of time to grab a random value from the array regardless of the array's length.
 ## 10. What Am I?
   The function checks to see if the number supplied is a prime number greater than 2. Linear time since the run time depends on the number that is supplied as a parameter.
-   
+## 11. Tower of Hanoi
+  1. There will be 2 rings on tower A and 3 rings on tower b.
+  2. When there are 3 discs, it taskes 7 moves to solve the puzzle. When there are 4 discs, it takes 15 moves to solve the puzzle. When there are 5 discs, it takes 31 moves to solve the puzzle. 
+  3. It has an exponential run time.
