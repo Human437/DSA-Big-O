@@ -29,8 +29,8 @@
    - **Reverse String**, linear time since it is dependent on the length of the string
    - **nth Triangular Number**, linear time since it is dependent on the triangle you want to count up to
    - **String Splitter**, linear time since it is dependent on the length of the string
-   - **Fibonacci**, linear time since it is dependent on the fibonacci number you want the sequence to go to
-   - **Factorial**, linear time since it is dependent on the value you want the factorial of.
+   - **Fibonacci**, polynomial, O(n^2)
+   - **Factorial**, factorial.
 ## 14. Iterative Big O
 - **Counting Sheep**, linear time since it is dependent on the number of sheep you wish to count
 - **Power Calculator**, linear time since it is dependent on the size of the exponent
